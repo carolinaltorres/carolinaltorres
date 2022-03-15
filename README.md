@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there! I'm Carolina Torres
 
-<!--
-**carolinaltorres/carolinaltorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Full-Stack Java Developer
+- 🌱 I’m learning HTML and CSS
+- 😄 Pronouns: She/Her/Hers
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Estatística
+<div align="center">
+  <a href="https://github.com/carolinaltorres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinaltorres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaltorres&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ 
+# Habilidades 
+<div> 
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
+  <img align="center" alt="GitHub" height="50" width="50" src="https://img.icons8.com/nolan/64/github.png" /> 
+  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953134704687730738/953134734177882233/Webp.net-gifmaker.gif">
+</div>  
+  
+##
+  
+<div>
+    <a href = "mailto:carolinadelimatorres@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carolinadelimatorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
