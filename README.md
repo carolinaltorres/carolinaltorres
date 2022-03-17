@@ -2,6 +2,7 @@
 
 - 🔭 Full-Stack Java Developer
 - 🌱 I’m learning HTML and CSS
+- 📫 Contact me: carolinadelimatorres@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
 # Estatística
