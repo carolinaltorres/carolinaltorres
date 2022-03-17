@@ -19,7 +19,8 @@
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
   <img align="center" alt="GitHub" height="50" width="50" src="https://img.icons8.com/nolan/64/github.png" /> 
   <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953134704687730738/953134734177882233/Webp.net-gifmaker.gif">
+  <img align="center" alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="right" alt="Gif-Carol" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/953134704687730738/953134734177882233/Webp.net-gifmaker.gif">
 </div>  
   
 ##
