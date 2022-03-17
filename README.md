@@ -33,7 +33,7 @@
 ##
   
 <div> 
-    ![Snake animation](https://github.com/carolinaltorres/carolinaltorres/blob/output/github-contribution-grid-snake.svg
+  ![Snake animation](https://github.com/carolinaltorres/carolinaltorres/blob/output/github-contribution-grid-snake.svg)
 </div>  
   
 
