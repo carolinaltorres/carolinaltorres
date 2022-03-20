@@ -5,14 +5,14 @@
 - 📫 Contact me: carolinadelimatorres@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
-# Estatística
+# Statistic
 <div align="center">
   <a href="https://github.com/carolinaltorres">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolinaltorres&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaltorres&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
-# Habilidades 
+# Skills 
 <div> 
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
