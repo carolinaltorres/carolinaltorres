@@ -1,7 +1,7 @@
 ### Hi there! I'm Carolina Torres
 
 - 🔭 Full-Stack Java Developer
-- 🌱 I’m learning HTML and CSS
+- 🌱 I’m learning TypeScript
 - 📫 Contact me: carolinadelimatorres@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
