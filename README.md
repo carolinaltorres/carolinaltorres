@@ -3,7 +3,6 @@
 - 🔭 Full-Stack Java Developer
 - 🌱 I’m learning TypeScript
 - 📫 Contact me: carolinadelimatorres@gmail.com
-- 😄 Pronouns: She/Her/Hers
 
 # Statistic
 <div align="center">
