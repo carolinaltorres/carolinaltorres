@@ -13,13 +13,15 @@
  
 # Skills 
 <div> 
+  <img align="center" alt="Angular" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"/>
   <img align="center" alt="TypeScript" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"/>
   <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Bootstrap" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"/>
+  <img align="center" alt="AWS" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg"/>
   <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
   <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg" />
   <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  />
   <img align="center" alt="GitHub" height="50" width="50" src="https://img.icons8.com/nolan/64/github.png" /> 
