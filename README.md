@@ -1,7 +1,6 @@
 ### Hi there! I'm Carolina Torres
 
-- 🔭 Full-Stack Java Developer
-- 🌱 I’m learning TypeScript
+- 🌱 I’m learning TypeScript - Angular.
 - 📫 Contact me: carolinadelimatorres@gmail.com
 
 # Statistic
